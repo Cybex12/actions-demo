@@ -1,1 +1,1 @@
-Testowanie wyzwalacza pull request
+Testowanie wyzwalacza pull request.
