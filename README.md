@@ -1,1 +1,1 @@
-Opis projektu dla repozytorium actions-demo
+Testowanie wyzwalacza pull request
